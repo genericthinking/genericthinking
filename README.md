@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @genericthinking
+- 👋 Hi, I’m @gravity0z
 - 👀 I’m interested in ... CyberSecuirty, Crypto, iOS
 - 🌱 I’m currently learning ... python and javascript (for now)
 <!---
